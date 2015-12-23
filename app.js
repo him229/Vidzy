@@ -17,8 +17,6 @@ app.set('view engine', 'jade');
 // uncomment after placing your favicon in /public
 
 // initialize MongoDB
-//add express views
-
 
 //app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
 app.use(logger('dev'));
